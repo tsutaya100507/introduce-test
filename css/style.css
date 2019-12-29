@@ -47,9 +47,8 @@ main{
 }
 .img-wrapper-box{
     position: relative;
-    background-image:url("../images/venice-4704342_1280.webp");
-    background-attachment:initial;
-    background-size: 100%;
+    background-image:url("../images/venice-4704342_1280.jpg");
+    background-size: cover;
     height:650px;
     opacity: .7;
 }
